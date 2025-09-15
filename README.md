@@ -6,9 +6,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutoshmaurya21" alt="ashutoshmaurya21" /></a> </p>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m software developerg 
 
-- 💬 Ask me about **C++**
+- I am a Software Developer with strong expertise in HTML, CSS, JavaScript, and modern frameworks such as
+React,Next.js. Experienced in building scalable, responsive, and user-centric web applications. I am also proficient in
+data structures and algorithms and capable of solving complex problems.
+I am also proficient in data structures and algorithms and capable of solving complex problems
 
 - 📫 How to reach me **anshum212003@gmail.com**
 
